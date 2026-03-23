@@ -26,6 +26,7 @@ class StudentProfile(BaseModel):
     has_research: bool
     work_ex_years: int
     backlogs: int
+    field: str = "ai"
 
 @app.post("/predict")
 def predict_universities(profile: StudentProfile):
