@@ -27,6 +27,10 @@ class StudentProfile(BaseModel):
     work_ex_years: int
     backlogs: int
     field: str = "ai"
+    background: str = "Computer Science"
+    sop_strength: str = "average"
+    blocked_account: bool = False
+    has_health_insurance: bool = False
 
 @app.post("/predict")
 def predict_universities(profile: StudentProfile):
