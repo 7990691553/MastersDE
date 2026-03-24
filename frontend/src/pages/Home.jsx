@@ -4,8 +4,23 @@ import axios from 'axios'
 
 const API = 'http://127.0.0.1:8000'
 
-const FIELDS = ['AI', 'ML', 'Data Science', 'Computer Science', 'Mechanical', 'Electrical', 'Automotive', 'Robotics']
-const BACKGROUNDS = ['Computer Science', 'Electrical', 'Mechanical', 'Mathematics', 'Physics', 'Statistics', 'Automotive', 'Electronics']
+const FIELDS = [
+  'AI', 'ML', 'Data Science', 'Computer Science',
+  'Mechanical Engineering', 'Electrical Engineering',
+  'Automotive Engineering', 'Robotics', 'Aerospace Engineering',
+  'Chemical Engineering', 'Civil Engineering', 'Biomedical Engineering',
+  'Environmental Engineering', 'Materials Science', 'Energy Engineering',
+  'Industrial Engineering', 'Mathematics', 'Physics', 'Chemistry',
+  'Bioinformatics', 'Photonics', 'Maritime Technology', 'Petroleum Engineering'
+]
+
+const BACKGROUNDS = [
+  'Computer Science', 'Electrical', 'Mechanical', 'Mathematics',
+  'Physics', 'Statistics', 'Automotive', 'Electronics',
+  'Aerospace', 'Chemical', 'Civil', 'Biomedical',
+  'Environmental', 'Materials', 'Industrial', 'Biology',
+  'Chemistry', 'Agricultural', 'Maritime', 'Petroleum'
+]
 const SOP_OPTIONS = ['weak', 'average', 'strong']
 
 export default function Home() {

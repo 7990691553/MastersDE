@@ -97,12 +97,23 @@ def check_visa_readiness(student):
 def predict(student):
     universities = load_universities()
     field = student.get("field", "").lower()
+    background = student.get("background", "").lower()
     results = []
     for uni in universities:
         specs_lower = [s.lower() for s in uni["specializations"]]
-        if field and not any(field in s for s in specs_lower):
+        relevant_lower = [r.lower() for r in uni["relevant_backgrounds"]]
+        field_match = any(
+            field in s or s in field or
+            any(word in s for word in field.split())
+            for s in specs_lower
+        )
+        if field and not field_match:
             continue
         score = calculate_match(student, uni)
+        background_bonus = 0
+        if any(background in r or r in background for r in relevant_lower):
+            background_bonus = 5
+        score = min(100, round(score + background_bonus, 1))
         results.append({
             "name": uni["name"],
             "city": uni["city"],

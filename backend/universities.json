@@ -8,28 +8,12 @@
     "ranking": 1,
     "city": "Munich",
     "state": "Bavaria",
-    "specializations": ["AI", "ML", "Robotics", "Mechanical", "Electrical", "Computer Science"],
+    "specializations": ["AI", "ML", "Robotics", "Mechanical Engineering", "Electrical Engineering", "Computer Science", "Aerospace Engineering", "Chemical Engineering", "Civil Engineering", "Biomedical Engineering"],
     "winter_deadline": "15 April",
     "summer_deadline": "15 October",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Mathematics"],
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Mathematics", "Physics", "Aerospace", "Chemical", "Civil", "Biomedical"],
     "application_portal": "https://www.tum.de/en/studies/application",
-    "notes": "Highly competitive. Research experience strongly preferred."
-  },
-  {
-    "name": "LMU Munich",
-    "min_gpa": 8.0,
-    "min_ielts": 7.0,
-    "research_required": true,
-    "tuition": 0,
-    "ranking": 2,
-    "city": "Munich",
-    "state": "Bavaria",
-    "specializations": ["AI", "Data Science", "Computer Science"],
-    "winter_deadline": "1 May",
-    "summer_deadline": "1 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics"],
-    "application_portal": "https://www.lmu.de/en/study/application",
-    "notes": "Strong preference for mathematics and CS backgrounds."
+    "notes": "Germany's top technical university. Extremely competitive. Strong research background essential."
   },
   {
     "name": "RWTH Aachen",
@@ -37,15 +21,31 @@
     "min_ielts": 7.0,
     "research_required": false,
     "tuition": 0,
-    "ranking": 3,
+    "ranking": 2,
     "city": "Aachen",
     "state": "NRW",
-    "specializations": ["AI", "Mechanical", "Electrical", "Robotics", "Computer Science"],
+    "specializations": ["AI", "Mechanical Engineering", "Electrical Engineering", "Robotics", "Computer Science", "Chemical Engineering", "Civil Engineering", "Aerospace Engineering", "Materials Science"],
     "winter_deadline": "1 March",
     "summer_deadline": "15 September",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Physics"],
-    "application_portal": "https://www.rwth-aachen.de/go/id/einschreibung",
-    "notes": "One of Germany's top engineering universities. Very strong for Mechanical and Electrical."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Physics", "Chemical", "Civil", "Aerospace", "Materials"],
+    "application_portal": "https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Bewerbung/~eBeI/Bewerbung-Master/?lidx=1",
+    "notes": "Top engineering university. Very strong for Mechanical, Electrical and Chemical Engineering."
+  },
+  {
+    "name": "KIT Karlsruhe",
+    "min_gpa": 7.5,
+    "min_ielts": 6.5,
+    "research_required": false,
+    "tuition": 0,
+    "ranking": 3,
+    "city": "Karlsruhe",
+    "state": "Baden-Wurttemberg",
+    "specializations": ["AI", "Mechanical Engineering", "Electrical Engineering", "Robotics", "Computer Science", "Chemical Engineering", "Civil Engineering", "Physics", "Mathematics", "Materials Science"],
+    "winter_deadline": "15 May",
+    "summer_deadline": "15 November",
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Physics", "Chemical", "Civil", "Mathematics", "Materials"],
+    "application_portal": "https://www.kit.edu/english/study.php",
+    "notes": "Known as the German MIT. Excellent across all engineering disciplines."
   },
   {
     "name": "TU Berlin",
@@ -56,28 +56,12 @@
     "ranking": 4,
     "city": "Berlin",
     "state": "Berlin",
-    "specializations": ["AI", "ML", "Electrical", "Computer Science"],
+    "specializations": ["AI", "ML", "Electrical Engineering", "Computer Science", "Mechanical Engineering", "Civil Engineering", "Chemical Engineering", "Urban Planning", "Industrial Engineering"],
     "winter_deadline": "15 April",
     "summer_deadline": "15 October",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mathematics"],
-    "application_portal": "https://www.tu.berlin/en/studying/application-and-enrollment",
-    "notes": "Berlin location is a major advantage for internships and jobs."
-  },
-  {
-    "name": "KIT Karlsruhe",
-    "min_gpa": 7.5,
-    "min_ielts": 6.5,
-    "research_required": false,
-    "tuition": 0,
-    "ranking": 5,
-    "city": "Karlsruhe",
-    "state": "Baden-Wurttemberg",
-    "specializations": ["AI", "Mechanical", "Electrical", "Robotics", "Computer Science"],
-    "winter_deadline": "15 May",
-    "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Physics"],
-    "application_portal": "https://www.kit.edu/english/study.php",
-    "notes": "Known as the German MIT. Excellent for engineering fields."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Civil", "Chemical", "Industrial", "Mathematics"],
+    "application_portal": "https://www.tu.berlin/en/studying/application-and-enrollment/masters-application",
+    "notes": "Berlin location gives excellent internship and job opportunities. Strong startup ecosystem."
   },
   {
     "name": "TU Darmstadt",
@@ -85,15 +69,31 @@
     "min_ielts": 6.5,
     "research_required": false,
     "tuition": 0,
-    "ranking": 6,
+    "ranking": 5,
     "city": "Darmstadt",
     "state": "Hesse",
-    "specializations": ["AI", "ML", "Robotics", "Electrical", "Computer Science"],
+    "specializations": ["AI", "ML", "Robotics", "Electrical Engineering", "Computer Science", "Mechanical Engineering", "Civil Engineering", "Materials Science", "Physics"],
     "winter_deadline": "1 April",
     "summer_deadline": "1 October",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Mathematics"],
-    "application_portal": "https://www.tu-darmstadt.de/studieren/studieninteressierte/bewerbung_und_zulassung",
-    "notes": "Strong AI and cybersecurity programs."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Civil", "Materials", "Physics", "Mathematics"],
+    "application_portal": "https://www.tu-darmstadt.de/studieren/studieninteressierte/bewerbung_und_zulassung/index.en.jsp",
+    "notes": "Strong AI and cybersecurity programs. SAP and Software AG nearby for jobs."
+  },
+  {
+    "name": "LMU Munich",
+    "min_gpa": 8.0,
+    "min_ielts": 7.0,
+    "research_required": true,
+    "tuition": 0,
+    "ranking": 6,
+    "city": "Munich",
+    "state": "Bavaria",
+    "specializations": ["AI", "Data Science", "Computer Science", "Mathematics", "Physics", "Statistics", "Bioinformatics", "Environmental Science"],
+    "winter_deadline": "1 May",
+    "summer_deadline": "1 November",
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Physics", "Biology", "Environmental"],
+    "application_portal": "https://www.lmu.de/en/study/application-and-enrollment/index.html",
+    "notes": "Germany's largest university. Very strong for theoretical sciences and mathematics."
   },
   {
     "name": "University of Stuttgart",
@@ -104,12 +104,12 @@
     "ranking": 7,
     "city": "Stuttgart",
     "state": "Baden-Wurttemberg",
-    "specializations": ["ML", "Mechanical", "Automotive", "Electrical", "Computer Science"],
+    "specializations": ["ML", "Mechanical Engineering", "Automotive Engineering", "Electrical Engineering", "Computer Science", "Aerospace Engineering", "Civil Engineering", "Industrial Engineering"],
     "winter_deadline": "15 April",
     "summer_deadline": "15 October",
-    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Automotive"],
-    "application_portal": "https://www.uni-stuttgart.de/en/study/application",
-    "notes": "Best university for Automotive Engineering in Germany. Bosch, Mercedes, Porsche nearby."
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Automotive", "Aerospace", "Civil", "Industrial"],
+    "application_portal": "https://www.uni-stuttgart.de/en/study/application/",
+    "notes": "Best university for Automotive Engineering. Bosch, Mercedes, Porsche all headquartered nearby."
   },
   {
     "name": "TU Dresden",
@@ -120,12 +120,12 @@
     "ranking": 8,
     "city": "Dresden",
     "state": "Saxony",
-    "specializations": ["ML", "Electrical", "Mechanical", "Computer Science"],
+    "specializations": ["ML", "Electrical Engineering", "Mechanical Engineering", "Computer Science", "Civil Engineering", "Environmental Engineering", "Biomedical Engineering", "Materials Science"],
     "winter_deadline": "1 May",
     "summer_deadline": "1 November",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical"],
-    "application_portal": "https://tu-dresden.de/studium/vor-dem-studium/bewerbung",
-    "notes": "Excellence university. Strong semiconductor and microelectronics research."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Civil", "Environmental", "Biomedical", "Materials"],
+    "application_portal": "https://tu-dresden.de/studium/vor-dem-studium/bewerbung/master",
+    "notes": "Excellence university. Strong semiconductor, microelectronics and biomedical research."
   },
   {
     "name": "Heidelberg University",
@@ -136,12 +136,12 @@
     "ranking": 9,
     "city": "Heidelberg",
     "state": "Baden-Wurttemberg",
-    "specializations": ["Data Science", "AI", "Computer Science"],
+    "specializations": ["Data Science", "AI", "Computer Science", "Mathematics", "Physics", "Chemistry", "Bioinformatics", "Environmental Science"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Physics"],
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Physics", "Chemistry", "Biology"],
     "application_portal": "https://www.uni-heidelberg.de/en/study/application",
-    "notes": "Germany oldest university. Very research focused."
+    "notes": "Germany's oldest university. Highly research focused. Very strong for sciences."
   },
   {
     "name": "University of Bonn",
@@ -152,12 +152,12 @@
     "ranking": 10,
     "city": "Bonn",
     "state": "NRW",
-    "specializations": ["AI", "ML", "Computer Science", "Mathematics"],
+    "specializations": ["AI", "ML", "Computer Science", "Mathematics", "Physics", "Chemistry", "Geodesy", "Agricultural Science"],
     "winter_deadline": "1 May",
     "summer_deadline": "1 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Physics"],
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Physics", "Chemistry", "Agricultural"],
     "application_portal": "https://www.uni-bonn.de/en/studying/application-and-enrollment",
-    "notes": "Strong ML research group. Close to Cologne and Dusseldorf."
+    "notes": "Strong ML research group. Close to Cologne. Deutsche Telekom HQ nearby."
   },
   {
     "name": "Saarland University",
@@ -168,12 +168,12 @@
     "ranking": 11,
     "city": "Saarbrucken",
     "state": "Saarland",
-    "specializations": ["AI", "ML", "Computer Science"],
+    "specializations": ["AI", "ML", "Computer Science", "Bioinformatics", "Materials Science", "Mathematics"],
     "winter_deadline": "15 April",
     "summer_deadline": "15 October",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Electrical"],
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Electrical", "Biology", "Materials"],
     "application_portal": "https://www.uni-saarland.de/en/study/application.html",
-    "notes": "Home of Max Planck Institute for Informatics. World class AI research."
+    "notes": "Home of Max Planck Institute for Informatics and DFKI. World class AI research hub."
   },
   {
     "name": "FAU Erlangen-Nuremberg",
@@ -184,12 +184,12 @@
     "ranking": 12,
     "city": "Erlangen",
     "state": "Bavaria",
-    "specializations": ["AI", "ML", "Electrical", "Mechanical", "Computer Science"],
+    "specializations": ["AI", "ML", "Electrical Engineering", "Mechanical Engineering", "Computer Science", "Chemical Engineering", "Biomedical Engineering", "Materials Science", "Physics"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Physics"],
-    "application_portal": "https://www.fau.eu/education/application",
-    "notes": "Siemens HQ nearby. Excellent industry connections."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Chemical", "Biomedical", "Materials", "Physics"],
+    "application_portal": "https://www.fau.eu/education/application/",
+    "notes": "Siemens HQ in Erlangen. Excellent industry connections especially for Electrical and Biomedical."
   },
   {
     "name": "University of Hamburg",
@@ -200,12 +200,12 @@
     "ranking": 13,
     "city": "Hamburg",
     "state": "Hamburg",
-    "specializations": ["ML", "Data Science", "Computer Science"],
+    "specializations": ["ML", "Data Science", "Computer Science", "Mathematics", "Physics", "Chemistry", "Environmental Science", "Marine Science"],
     "winter_deadline": "1 May",
     "summer_deadline": "1 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics"],
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Physics", "Chemistry", "Environmental"],
     "application_portal": "https://www.uni-hamburg.de/en/studium/bewerbung.html",
-    "notes": "Second largest city in Germany. Great for post-study job market."
+    "notes": "Second largest city in Germany. Port city with strong logistics and marine tech industry."
   },
   {
     "name": "Leibniz University Hannover",
@@ -216,12 +216,12 @@
     "ranking": 14,
     "city": "Hannover",
     "state": "Lower Saxony",
-    "specializations": ["ML", "Mechanical", "Electrical", "Robotics", "Computer Science"],
+    "specializations": ["ML", "Mechanical Engineering", "Electrical Engineering", "Robotics", "Computer Science", "Civil Engineering", "Environmental Engineering", "Agricultural Science"],
     "winter_deadline": "1 April",
     "summer_deadline": "1 October",
-    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science"],
-    "application_portal": "https://www.uni-hannover.de/en/studium/bewerbung",
-    "notes": "Volkswagen and Continental headquarters nearby."
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Civil", "Environmental", "Agricultural"],
+    "application_portal": "https://www.uni-hannover.de/en/studium/bewerbung/",
+    "notes": "Volkswagen and Continental headquarters nearby. Very strong for Mechanical and Automotive."
   },
   {
     "name": "TU Hamburg",
@@ -232,12 +232,12 @@
     "ranking": 15,
     "city": "Hamburg",
     "state": "Hamburg",
-    "specializations": ["AI", "Electrical", "Mechanical", "Computer Science"],
+    "specializations": ["AI", "Electrical Engineering", "Mechanical Engineering", "Computer Science", "Chemical Engineering", "Environmental Engineering", "Logistics Engineering"],
     "winter_deadline": "15 April",
     "summer_deadline": "15 October",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical"],
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Chemical", "Environmental", "Logistics"],
     "application_portal": "https://www.tuhh.de/tuhh/en/studies/application.html",
-    "notes": "Smaller and more approachable than main Hamburg uni. Good acceptance rate."
+    "notes": "Smaller and more approachable than main Hamburg uni. Good acceptance rate for internationals."
   },
   {
     "name": "University of Freiburg",
@@ -248,12 +248,12 @@
     "ranking": 16,
     "city": "Freiburg",
     "state": "Baden-Wurttemberg",
-    "specializations": ["AI", "Robotics", "Computer Science"],
+    "specializations": ["AI", "Robotics", "Computer Science", "Mathematics", "Physics", "Chemistry", "Environmental Science", "Bioinformatics", "Microsystems Engineering"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Electrical"],
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Electrical", "Physics", "Chemistry", "Biology", "Environmental"],
     "application_portal": "https://www.uni-freiburg.de/en/studies/application",
-    "notes": "Known for autonomous robotics research. Beautiful city near Black Forest."
+    "notes": "Known for autonomous robotics. Beautiful city near Black Forest and Swiss border."
   },
   {
     "name": "University of Ulm",
@@ -264,12 +264,12 @@
     "ranking": 17,
     "city": "Ulm",
     "state": "Baden-Wurttemberg",
-    "specializations": ["ML", "Electrical", "Computer Science", "Data Science"],
+    "specializations": ["ML", "Electrical Engineering", "Computer Science", "Data Science", "Biomedical Engineering", "Mathematics", "Physics", "Chemistry"],
     "winter_deadline": "15 April",
     "summer_deadline": "15 October",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mathematics"],
-    "application_portal": "https://www.uni-ulm.de/en/study/applying-for-a-place",
-    "notes": "Strong medical informatics and autonomous systems programs."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mathematics", "Biomedical", "Physics", "Chemistry"],
+    "application_portal": "https://www.uni-ulm.de/en/study/applying-for-a-place/",
+    "notes": "Strong medical informatics and autonomous systems. Daimler and Iveco nearby."
   },
   {
     "name": "Otto von Guericke University",
@@ -280,12 +280,12 @@
     "ranking": 18,
     "city": "Magdeburg",
     "state": "Saxony-Anhalt",
-    "specializations": ["ML", "Electrical", "Mechanical", "Computer Science", "Data Science"],
+    "specializations": ["ML", "Electrical Engineering", "Mechanical Engineering", "Computer Science", "Data Science", "Chemical Engineering", "Civil Engineering", "Systems Engineering"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical"],
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Chemical", "Civil", "Systems"],
     "application_portal": "https://www.ovgu.de/en/Study/Application.html",
-    "notes": "Affordable city. Good acceptance rate for international students."
+    "notes": "Affordable city. Good acceptance rate for international students. BASF and Bayer nearby."
   },
   {
     "name": "TU Braunschweig",
@@ -296,12 +296,12 @@
     "ranking": 19,
     "city": "Braunschweig",
     "state": "Lower Saxony",
-    "specializations": ["AI", "Mechanical", "Automotive", "Electrical", "Computer Science"],
+    "specializations": ["AI", "Mechanical Engineering", "Automotive Engineering", "Electrical Engineering", "Computer Science", "Aerospace Engineering", "Civil Engineering"],
     "winter_deadline": "1 May",
     "summer_deadline": "1 November",
-    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Automotive"],
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Automotive", "Aerospace", "Civil"],
     "application_portal": "https://www.tu-braunschweig.de/en/studying/applying",
-    "notes": "Volkswagen Research Institute nearby. Great for Automotive students."
+    "notes": "Volkswagen Research Institute in city. Excellent for Automotive and Aerospace students."
   },
   {
     "name": "University of Kassel",
@@ -312,12 +312,12 @@
     "ranking": 20,
     "city": "Kassel",
     "state": "Hesse",
-    "specializations": ["Mechanical", "Electrical", "Automotive", "Computer Science"],
+    "specializations": ["Mechanical Engineering", "Electrical Engineering", "Automotive Engineering", "Computer Science", "Renewable Energy", "Civil Engineering", "Industrial Engineering"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Mechanical", "Electrical", "Automotive"],
-    "application_portal": "https://www.uni-kassel.de/uni/en/studies/applying-enrolling",
-    "notes": "Low cost of living. Friendly to international applicants."
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Automotive", "Civil", "Industrial", "Environmental"],
+    "application_portal": "https://www.uni-kassel.de/uni/en/studies/applying-enrolling/",
+    "notes": "Low cost of living. Strong renewable energy program. Friendly to international applicants."
   },
   {
     "name": "University of Passau",
@@ -328,12 +328,12 @@
     "ranking": 21,
     "city": "Passau",
     "state": "Bavaria",
-    "specializations": ["Data Science", "AI", "Computer Science"],
+    "specializations": ["Data Science", "AI", "Computer Science", "Mathematics", "Internet Computing"],
     "winter_deadline": "1 June",
     "summer_deadline": "1 December",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics"],
-    "application_portal": "https://www.uni-passau.de/en/prospective-students/applying",
-    "notes": "Small beautiful city. Very good Data Science program."
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Electrical"],
+    "application_portal": "https://www.uni-passau.de/en/prospective-students/applying/",
+    "notes": "Small beautiful city on Danube. Very good Data Science and Internet Computing programs."
   },
   {
     "name": "University of Augsburg",
@@ -344,12 +344,12 @@
     "ranking": 22,
     "city": "Augsburg",
     "state": "Bavaria",
-    "specializations": ["AI", "Data Science", "Computer Science", "Mechanical"],
+    "specializations": ["AI", "Data Science", "Computer Science", "Mechanical Engineering", "Physics", "Mathematics", "Environmental Science"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Mechanical"],
-    "application_portal": "https://www.uni-augsburg.de/en/studium/bewerben",
-    "notes": "Near Munich. Growing tech ecosystem."
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Mechanical", "Physics", "Environmental"],
+    "application_portal": "https://www.uni-augsburg.de/en/studium/bewerben/",
+    "notes": "Near Munich. Growing tech ecosystem. MAN and Premium Aerotec nearby."
   },
   {
     "name": "FH Aachen",
@@ -360,12 +360,12 @@
     "ranking": 23,
     "city": "Aachen",
     "state": "NRW",
-    "specializations": ["AI", "Mechanical", "Electrical", "Automotive", "Computer Science"],
+    "specializations": ["AI", "Mechanical Engineering", "Electrical Engineering", "Automotive Engineering", "Computer Science", "Chemical Engineering", "Energy Engineering"],
     "winter_deadline": "15 June",
     "summer_deadline": "15 December",
-    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Automotive"],
-    "application_portal": "https://www.fh-aachen.de/en/study/application",
-    "notes": "Applied sciences focus. High employment rate after graduation."
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Automotive", "Chemical", "Energy"],
+    "application_portal": "https://www.fh-aachen.de/en/study/application/",
+    "notes": "Applied sciences focus. Very high employment rate. Industry partnerships with Ford and Evonik."
   },
   {
     "name": "Hochschule Munich",
@@ -376,12 +376,12 @@
     "ranking": 24,
     "city": "Munich",
     "state": "Bavaria",
-    "specializations": ["Data Science", "ML", "Mechanical", "Electrical", "Computer Science"],
+    "specializations": ["Data Science", "ML", "Mechanical Engineering", "Electrical Engineering", "Computer Science", "Automotive Engineering", "Industrial Engineering"],
     "winter_deadline": "1 June",
     "summer_deadline": "1 December",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical"],
-    "application_portal": "https://www.hm.edu/en/studies/application_and_enrollment",
-    "notes": "Applied university in Munich. Strong industry partnerships."
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Automotive", "Industrial"],
+    "application_portal": "https://www.hm.edu/en/studies/application_and_enrollment/",
+    "notes": "Applied university in Munich. Strong BMW and MAN partnerships. Great for Automotive students."
   },
   {
     "name": "Jacobs University Bremen",
@@ -392,12 +392,12 @@
     "ranking": 25,
     "city": "Bremen",
     "state": "Bremen",
-    "specializations": ["AI", "Data Science", "Computer Science"],
+    "specializations": ["AI", "Data Science", "Computer Science", "Mathematics", "Physics", "Chemistry", "Earth and Environmental Science"],
     "winter_deadline": "1 April",
     "summer_deadline": "1 October",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics"],
-    "application_portal": "https://www.jacobs-university.de/study/graduate/apply",
-    "notes": "Private university. English taught. Scholarships available."
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Physics", "Chemistry", "Environmental"],
+    "application_portal": "https://www.jacobs-university.de/study/graduate/apply/",
+    "notes": "Private university. Fully English taught. Merit scholarships available. International campus."
   },
   {
     "name": "University of Bayreuth",
@@ -408,12 +408,12 @@
     "ranking": 26,
     "city": "Bayreuth",
     "state": "Bavaria",
-    "specializations": ["AI", "ML", "Computer Science", "Data Science"],
+    "specializations": ["AI", "ML", "Computer Science", "Data Science", "Mathematics", "Physics", "Chemistry", "Materials Science", "Environmental Science"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Electrical"],
-    "application_portal": "https://www.uni-bayreuth.de/en/university/administration/admissions",
-    "notes": "Affordable Bavarian city. Friendly admission process."
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Electrical", "Physics", "Chemistry", "Materials", "Environmental"],
+    "application_portal": "https://www.uni-bayreuth.de/en/university/administration/admissions/",
+    "notes": "Affordable Bavarian city. Friendly admission process. Strong polymer and materials research."
   },
   {
     "name": "University of Duisburg-Essen",
@@ -424,12 +424,12 @@
     "ranking": 27,
     "city": "Essen",
     "state": "NRW",
-    "specializations": ["Data Science", "Electrical", "Mechanical", "Computer Science"],
+    "specializations": ["Data Science", "Electrical Engineering", "Mechanical Engineering", "Computer Science", "Civil Engineering", "Chemical Engineering", "Energy Engineering"],
     "winter_deadline": "1 June",
     "summer_deadline": "1 December",
-    "relevant_backgrounds": ["Electrical", "Mechanical", "Computer Science"],
+    "relevant_backgrounds": ["Electrical", "Mechanical", "Computer Science", "Civil", "Chemical", "Energy"],
     "application_portal": "https://www.uni-due.de/en/studium/bewerbung.php",
-    "notes": "Ruhr area. Strong industry connections with ThyssenKrupp and RWE."
+    "notes": "Ruhr area. Strong industry connections with ThyssenKrupp, RWE and Evonik."
   },
   {
     "name": "Ostbayerische HS Regensburg",
@@ -440,12 +440,12 @@
     "ranking": 28,
     "city": "Regensburg",
     "state": "Bavaria",
-    "specializations": ["AI", "ML", "Computer Science", "Electrical", "Mechanical"],
+    "specializations": ["AI", "ML", "Computer Science", "Electrical Engineering", "Mechanical Engineering", "Industrial Engineering"],
     "winter_deadline": "15 June",
     "summer_deadline": "15 December",
-    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical"],
+    "relevant_backgrounds": ["Computer Science", "Electrical", "Mechanical", "Industrial"],
     "application_portal": "https://www.oth-regensburg.de/en/studies/application.html",
-    "notes": "Applied sciences. Good for students with average profiles."
+    "notes": "Applied sciences. Good for students with average profiles. BMW and Siemens plants nearby."
   },
   {
     "name": "University of Mannheim",
@@ -456,12 +456,12 @@
     "ranking": 29,
     "city": "Mannheim",
     "state": "Baden-Wurttemberg",
-    "specializations": ["Data Science", "ML", "Computer Science"],
+    "specializations": ["Data Science", "ML", "Computer Science", "Mathematics", "Statistics", "Business Informatics"],
     "winter_deadline": "1 May",
     "summer_deadline": "1 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics"],
-    "application_portal": "https://www.uni-mannheim.de/en/academics/applying-to-uni-mannheim",
-    "notes": "Best university in Germany for Data Science and Business Analytics."
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Industrial"],
+    "application_portal": "https://www.uni-mannheim.de/en/academics/applying-to-uni-mannheim/",
+    "notes": "Best in Germany for Data Science and Business Analytics. SAP HQ in nearby Walldorf."
   },
   {
     "name": "University of Cologne",
@@ -472,11 +472,91 @@
     "ranking": 30,
     "city": "Cologne",
     "state": "NRW",
-    "specializations": ["Data Science", "ML", "Computer Science"],
+    "specializations": ["Data Science", "ML", "Computer Science", "Mathematics", "Physics", "Chemistry", "Geoscience"],
     "winter_deadline": "15 May",
     "summer_deadline": "15 November",
-    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics"],
-    "application_portal": "https://www.uni-koeln.de/en/studying/application-and-enrollment",
-    "notes": "Large vibrant city. Good student life and job market."
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Statistics", "Physics", "Chemistry"],
+    "application_portal": "https://www.uni-koeln.de/en/studying/application-and-enrollment/",
+    "notes": "Large vibrant city. Great student life and job market. Ford Germany HQ nearby."
+  },
+  {
+    "name": "TU Clausthal",
+    "min_gpa": 6.5,
+    "min_ielts": 6.0,
+    "research_required": false,
+    "tuition": 0,
+    "ranking": 31,
+    "city": "Clausthal-Zellerfeld",
+    "state": "Lower Saxony",
+    "specializations": ["Chemical Engineering", "Materials Science", "Energy Engineering", "Environmental Engineering", "Mechanical Engineering", "Petroleum Engineering"],
+    "winter_deadline": "15 June",
+    "summer_deadline": "15 December",
+    "relevant_backgrounds": ["Chemical", "Materials", "Mechanical", "Environmental", "Petroleum"],
+    "application_portal": "https://www.tu-clausthal.de/en/studying/application-and-enrollment",
+    "notes": "Specialist technical university. Best in Germany for mining, petroleum and materials engineering."
+  },
+  {
+    "name": "University of Rostock",
+    "min_gpa": 6.5,
+    "min_ielts": 6.0,
+    "research_required": false,
+    "tuition": 0,
+    "ranking": 32,
+    "city": "Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "specializations": ["Mechanical Engineering", "Electrical Engineering", "Computer Science", "Maritime Technology", "Environmental Engineering", "Aerospace Engineering"],
+    "winter_deadline": "1 June",
+    "summer_deadline": "1 December",
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Computer Science", "Maritime", "Environmental", "Aerospace"],
+    "application_portal": "https://www.uni-rostock.de/en/study/application-and-enrollment/",
+    "notes": "Coastal university. Excellent for Maritime Technology and Aerospace. Airbus supplier park nearby."
+  },
+  {
+    "name": "Brandenburg University of Technology",
+    "min_gpa": 6.0,
+    "min_ielts": 6.0,
+    "research_required": false,
+    "tuition": 0,
+    "ranking": 33,
+    "city": "Cottbus",
+    "state": "Brandenburg",
+    "specializations": ["Environmental Engineering", "Mechanical Engineering", "Electrical Engineering", "Computer Science", "Civil Engineering", "Energy Engineering", "Aerospace Engineering"],
+    "winter_deadline": "15 June",
+    "summer_deadline": "15 December",
+    "relevant_backgrounds": ["Mechanical", "Electrical", "Civil", "Environmental", "Energy", "Aerospace"],
+    "application_portal": "https://www.b-tu.de/en/study/application",
+    "notes": "Good for renewable energy and environmental engineering. Very affordable city."
+  },
+  {
+    "name": "University of Jena",
+    "min_gpa": 7.0,
+    "min_ielts": 6.5,
+    "research_required": false,
+    "tuition": 0,
+    "ranking": 34,
+    "city": "Jena",
+    "state": "Thuringia",
+    "specializations": ["Computer Science", "Mathematics", "Physics", "Chemistry", "Photonics", "Materials Science", "Bioinformatics"],
+    "winter_deadline": "1 May",
+    "summer_deadline": "1 November",
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Physics", "Chemistry", "Materials", "Biology"],
+    "application_portal": "https://www.uni-jena.de/en/study/application",
+    "notes": "Carl Zeiss and Jenoptik founded here. World leading optics and photonics research."
+  },
+  {
+    "name": "University of Wurzburg",
+    "min_gpa": 7.0,
+    "min_ielts": 6.5,
+    "research_required": false,
+    "tuition": 0,
+    "ranking": 35,
+    "city": "Wurzburg",
+    "state": "Bavaria",
+    "specializations": ["AI", "Computer Science", "Mathematics", "Physics", "Chemistry", "Bioinformatics", "Aerospace Engineering"],
+    "winter_deadline": "15 May",
+    "summer_deadline": "15 November",
+    "relevant_backgrounds": ["Computer Science", "Mathematics", "Physics", "Chemistry", "Biology", "Aerospace"],
+    "application_portal": "https://www.uni-wuerzburg.de/en/study/application/",
+    "notes": "Beautiful Bavarian city. Strong satellite and space technology research. DLR collaborations."
   }
 ]
