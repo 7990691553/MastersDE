@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import axios from 'axios'
 import jsPDF from 'jspdf'
 
-const API = 'http://127.0.0.1:8000'
+const API = 'https://mastersde-api.onrender.com'
 
 const tierColors = {
   Safe:      { bg: '#f0fdf4', border: '#86efac', badge: '#16a34a', text: '#15803d' },
